@@ -18,8 +18,11 @@ The **AccuLynx website** project is a modern web application designed to streaml
 
 ## Author
 **Name:** Shirley Reece
+
 **Email:** shirley54reece@outlook.com
+
 **Website:** AccuLynx website  
+
 **Bio:** A passionate developer with mastery in coding, repository structuring, and open‑source collaboration. Known for a helping nature and strong knowledge in modern web technologies.
 
 
