@@ -21,7 +21,7 @@ The **AccuLynx website** project is a modern web application designed to streaml
 
 **Email:** shirley54reece@outlook.com
 
-**Website:** AccuLynx website  
+**Website:** [AccuLynx website](https://www.acculynx.com.co)  
 
 **Bio:** A passionate developer with mastery in coding, repository structuring, and open‑source collaboration. Known for a helping nature and strong knowledge in modern web technologies.
 
